@@ -1,2 +1,2 @@
-# Face mask detector system
+# Face Mask Detector System
 
